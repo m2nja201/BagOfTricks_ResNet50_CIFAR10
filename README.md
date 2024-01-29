@@ -29,7 +29,7 @@ experimental code of **``Bag of Tricks for Image Classification with CNN``**
 ## 🐨 To Do
 - Proceed with ``zero gamma`` and ``knowledge distillation`` for the results with the best performance.
 
-## Reference
+## 🖇️ Reference
 1. Tong He, Zhi Zhang, Hang Zhang, Zhongyue Zhang, Junyuan Xie, and Mu Li. Bag of tricks for image classifica-tion with convolutional neural networks. IEEE/CVF conference on computer vision and pattern recognition, pages 558–567, 2019.
 2. Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun. Deep Residual Learning for Image Recognition. arXiv:1512.03385.
 
