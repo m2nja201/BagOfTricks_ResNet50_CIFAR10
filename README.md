@@ -5,6 +5,15 @@ experimental code of **``Bag of Tricks for Image Classification with CNN``**
 - **Dataset** : CIFAR-10
 - **Backbone Model** : ResNet50
 
+## 📕 How to
+1. Select the train file you want to run.
+2. Uncomment the techniques you want to experiment with.
+3. Execute the following command:
+   
+```
+python {train file name} --name="{result file name}" > {result file name}.txt
+```
+
 ## 🎣 Experiment
 - Scheduler (CosineAnnealing)
 - Warm up
